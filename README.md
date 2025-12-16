@@ -21,4 +21,4 @@ An interactive web app to visualize and manipulate a **cubic Bézier curve** usi
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/interactive-bezier-curve.git
+git clone https://github.com/vipulgaur1/interactive-bezier-curve.git
